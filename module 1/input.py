@@ -1,0 +1,6 @@
+money=input("i need money: ")
+print(money)
+print(type(money))
+fmoneyint=int(money)+int(money)
+print(type(fmoneyint))
+print(fmoneyint)
